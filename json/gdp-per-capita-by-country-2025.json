@@ -1,0 +1,1256 @@
+[
+  {
+    "flagCode": "LU",
+    "country": "Luxembourg",
+    "GDPPerCapitaViaIMF_2025": 141079.52,
+    "GDPPerCapitaViaUN_2023": 128935.9
+  },
+  {
+    "flagCode": "CH",
+    "country": "Switzerland",
+    "GDPPerCapitaViaIMF_2025": 111716.02,
+    "GDPPerCapitaViaUN_2023": 100830.69
+  },
+  {
+    "flagCode": "IE",
+    "country": "Ireland",
+    "GDPPerCapitaViaIMF_2025": 107243,
+    "GDPPerCapitaViaUN_2023": 106106.24
+  },
+  {
+    "flagCode": "SG",
+    "country": "Singapore",
+    "GDPPerCapitaViaIMF_2025": 93956.01,
+    "GDPPerCapitaViaUN_2023": 86615.97
+  },
+  {
+    "flagCode": "NO",
+    "country": "Norway",
+    "GDPPerCapitaViaIMF_2025": 90320.01,
+    "GDPPerCapitaViaUN_2023": 87931.9
+  },
+  {
+    "flagCode": "IS",
+    "country": "Iceland",
+    "GDPPerCapitaViaIMF_2025": 90111.33,
+    "GDPPerCapitaViaUN_2023": 80826.91
+  },
+  {
+    "flagCode": "US",
+    "country": "United States",
+    "GDPPerCapitaViaIMF_2025": 89677.89,
+    "GDPPerCapitaViaUN_2023": 80706.05
+  },
+  {
+    "flagCode": "MO",
+    "country": "Macau",
+    "GDPPerCapitaViaIMF_2025": 84276.03,
+    "GDPPerCapitaViaUN_2023": 64157.86
+  },
+  {
+    "flagCode": "QA",
+    "country": "Qatar",
+    "GDPPerCapitaViaIMF_2025": 72759.51,
+    "GDPPerCapitaViaUN_2023": 71499.48
+  },
+  {
+    "flagCode": "DK",
+    "country": "Denmark",
+    "GDPPerCapitaViaIMF_2025": 71966.69,
+    "GDPPerCapitaViaUN_2023": 68440.25
+  },
+  {
+    "flagCode": "NL",
+    "country": "Netherlands",
+    "GDPPerCapitaViaIMF_2025": 70605.53,
+    "GDPPerCapitaViaUN_2023": 63803.22
+  },
+  {
+    "flagCode": "AU",
+    "country": "Australia",
+    "GDPPerCapitaViaIMF_2025": 67978.74,
+    "GDPPerCapitaViaUN_2023": 67128.63
+  },
+  {
+    "flagCode": "SM",
+    "country": "San Marino",
+    "GDPPerCapitaViaIMF_2025": 61518.32,
+    "GDPPerCapitaViaUN_2023": 58917.18
+  },
+  {
+    "flagCode": "AT",
+    "country": "Austria",
+    "GDPPerCapitaViaIMF_2025": 61079.62,
+    "GDPPerCapitaViaUN_2023": 56041.75
+  },
+  {
+    "flagCode": "SE",
+    "country": "Sweden",
+    "GDPPerCapitaViaIMF_2025": 59508.26,
+    "GDPPerCapitaViaUN_2023": 55438.64
+  },
+  {
+    "flagCode": "BE",
+    "country": "Belgium",
+    "GDPPerCapitaViaIMF_2025": 58248.29,
+    "GDPPerCapitaViaUN_2023": 55048.98
+  },
+  {
+    "flagCode": "DE",
+    "country": "Germany",
+    "GDPPerCapitaViaIMF_2025": 57914.36,
+    "GDPPerCapitaViaUN_2023": 53528.07
+  },
+  {
+    "flagCode": "FI",
+    "country": "Finland",
+    "GDPPerCapitaViaIMF_2025": 57182.64,
+    "GDPPerCapitaViaUN_2023": 52762.47
+  },
+  {
+    "flagCode": "CA",
+    "country": "Canada",
+    "GDPPerCapitaViaIMF_2025": 55889.67,
+    "GDPPerCapitaViaUN_2023": 54517.04
+  },
+  {
+    "flagCode": "HK",
+    "country": "Hong Kong",
+    "GDPPerCapitaViaIMF_2025": 55608.1,
+    "GDPPerCapitaViaUN_2023": 51165.64
+  },
+  {
+    "flagCode": "IL",
+    "country": "Israel",
+    "GDPPerCapitaViaIMF_2025": 54369.76,
+    "GDPPerCapitaViaUN_2023": 55487.65
+  },
+  {
+    "flagCode": "GB",
+    "country": "United Kingdom",
+    "GDPPerCapitaViaIMF_2025": 54279.94,
+    "GDPPerCapitaViaUN_2023": 49224.06
+  },
+  {
+    "flagCode": "AE",
+    "country": "United Arab Emirates",
+    "GDPPerCapitaViaIMF_2025": 51294.32,
+    "GDPPerCapitaViaUN_2023": 48311.08
+  },
+  {
+    "flagCode": "FR",
+    "country": "France",
+    "GDPPerCapitaViaIMF_2025": 49526.71,
+    "GDPPerCapitaViaUN_2023": 44451.29
+  },
+  {
+    "flagCode": "NZ",
+    "country": "New Zealand",
+    "GDPPerCapitaViaIMF_2025": 48234.15,
+    "GDPPerCapitaViaUN_2023": 48749.95
+  },
+  {
+    "flagCode": "MT",
+    "country": "Malta",
+    "GDPPerCapitaViaIMF_2025": 46644.35,
+    "GDPPerCapitaViaUN_2023": 41676.3
+  },
+  {
+    "flagCode": "AD",
+    "country": "Andorra",
+    "GDPPerCapitaViaIMF_2025": 45994.88,
+    "GDPPerCapitaViaUN_2023": 46812.45
+  },
+  {
+    "flagCode": "IT",
+    "country": "Italy",
+    "GDPPerCapitaViaIMF_2025": 41714.41,
+    "GDPPerCapitaViaUN_2023": 38671.64
+  },
+  {
+    "flagCode": "AW",
+    "country": "Aruba",
+    "GDPPerCapitaViaIMF_2025": 41492.61,
+    "GDPPerCapitaViaUN_2023": 33802.18
+  },
+  {
+    "flagCode": "CY",
+    "country": "Cyprus",
+    "GDPPerCapitaViaIMF_2025": 40551.73,
+    "GDPPerCapitaViaUN_2023": 37077.43
+  },
+  {
+    "flagCode": "PR",
+    "country": "Puerto Rico",
+    "GDPPerCapitaViaIMF_2025": 38514.52,
+    "GDPPerCapitaViaUN_2023": 36366.89
+  },
+  {
+    "flagCode": "KR",
+    "country": "South Korea",
+    "GDPPerCapitaViaIMF_2025": 37674.85,
+    "GDPPerCapitaViaUN_2023": 35538.22
+  },
+  {
+    "flagCode": "ES",
+    "country": "Spain",
+    "GDPPerCapitaViaIMF_2025": 37361.96,
+    "GDPPerCapitaViaUN_2023": 33814.18
+  },
+  {
+    "flagCode": "BS",
+    "country": "Bahamas",
+    "GDPPerCapitaViaIMF_2025": 37180.05,
+    "GDPPerCapitaViaUN_2023": 35896.44
+  },
+  {
+    "flagCode": "BN",
+    "country": "Brunei",
+    "GDPPerCapitaViaIMF_2025": 37023.38,
+    "GDPPerCapitaViaUN_2023": 32962.92
+  },
+  {
+    "flagCode": "SI",
+    "country": "Slovenia",
+    "GDPPerCapitaViaIMF_2025": 36495.36,
+    "GDPPerCapitaViaUN_2023": 32641.9
+  },
+  {
+    "flagCode": "JP",
+    "country": "Japan",
+    "GDPPerCapitaViaIMF_2025": 35611.14,
+    "GDPPerCapitaViaUN_2023": 33806.08
+  },
+  {
+    "flagCode": "TW",
+    "country": "Taiwan",
+    "GDPPerCapitaViaIMF_2025": 34924.21,
+    "GDPPerCapitaViaUN_2023": null
+  },
+  {
+    "flagCode": "SA",
+    "country": "Saudi Arabia",
+    "GDPPerCapitaViaIMF_2025": 33287.24,
+    "GDPPerCapitaViaUN_2023": 32093.96
+  },
+  {
+    "flagCode": "EE",
+    "country": "Estonia",
+    "GDPPerCapitaViaIMF_2025": 33225.11,
+    "GDPPerCapitaViaUN_2023": 30201.41
+  },
+  {
+    "flagCode": "CZ",
+    "country": "Czechia",
+    "GDPPerCapitaViaIMF_2025": 33038.23,
+    "GDPPerCapitaViaUN_2023": 31749.94
+  },
+  {
+    "flagCode": "KW",
+    "country": "Kuwait",
+    "GDPPerCapitaViaIMF_2025": 31681.85,
+    "GDPPerCapitaViaUN_2023": 33831.8
+  },
+  {
+    "flagCode": "PT",
+    "country": "Portugal",
+    "GDPPerCapitaViaIMF_2025": 30946.81,
+    "GDPPerCapitaViaUN_2023": 27717.53
+  },
+  {
+    "flagCode": "GY",
+    "country": "Guyana",
+    "GDPPerCapitaViaIMF_2025": 30650.09,
+    "GDPPerCapitaViaUN_2023": 20188.59
+  },
+  {
+    "flagCode": "LT",
+    "country": "Lithuania",
+    "GDPPerCapitaViaIMF_2025": 30513.58,
+    "GDPPerCapitaViaUN_2023": 27956.24
+  },
+  {
+    "flagCode": "BH",
+    "country": "Bahrain",
+    "GDPPerCapitaViaIMF_2025": 29886.08,
+    "GDPPerCapitaViaUN_2023": 28453.48
+  },
+  {
+    "flagCode": "SK",
+    "country": "Slovakia",
+    "GDPPerCapitaViaIMF_2025": 28176.91,
+    "GDPPerCapitaViaUN_2023": 24086.08
+  },
+  {
+    "flagCode": "BB",
+    "country": "Barbados",
+    "GDPPerCapitaViaIMF_2025": 26227.92,
+    "GDPPerCapitaViaUN_2023": 23804.02
+  },
+  {
+    "flagCode": "HU",
+    "country": "Hungary",
+    "GDPPerCapitaViaIMF_2025": 25703.44,
+    "GDPPerCapitaViaUN_2023": 21954.01
+  },
+  {
+    "flagCode": "LV",
+    "country": "Latvia",
+    "GDPPerCapitaViaIMF_2025": 25681.02,
+    "GDPPerCapitaViaUN_2023": 22443.66
+  },
+  {
+    "flagCode": "GR",
+    "country": "Greece",
+    "GDPPerCapitaViaIMF_2025": 25616.45,
+    "GDPPerCapitaViaUN_2023": 23772.38
+  },
+  {
+    "flagCode": "KN",
+    "country": "Saint Kitts and Nevis",
+    "GDPPerCapitaViaIMF_2025": 25514.12,
+    "GDPPerCapitaViaUN_2023": 22624.93
+  },
+  {
+    "flagCode": "HR",
+    "country": "Croatia",
+    "GDPPerCapitaViaIMF_2025": 25081.17,
+    "GDPPerCapitaViaUN_2023": 21660.9
+  },
+  {
+    "flagCode": "PL",
+    "country": "Poland",
+    "GDPPerCapitaViaIMF_2025": 25040.6,
+    "GDPPerCapitaViaUN_2023": 20875.68
+  },
+  {
+    "flagCode": "UY",
+    "country": "Uruguay",
+    "GDPPerCapitaViaIMF_2025": 24080.44,
+    "GDPPerCapitaViaUN_2023": 22796.31
+  },
+  {
+    "flagCode": "AG",
+    "country": "Antigua and Barbuda",
+    "GDPPerCapitaViaIMF_2025": 23215.54,
+    "GDPPerCapitaViaUN_2023": 21787.1
+  },
+  {
+    "flagCode": "SC",
+    "country": "Seychelles",
+    "GDPPerCapitaViaIMF_2025": 22001.42,
+    "GDPPerCapitaViaUN_2023": 16734.71
+  },
+  {
+    "flagCode": "RO",
+    "country": "Romania",
+    "GDPPerCapitaViaIMF_2025": 21570.1,
+    "GDPPerCapitaViaUN_2023": 18347.51
+  },
+  {
+    "flagCode": "TT",
+    "country": "Trinidad and Tobago",
+    "GDPPerCapitaViaIMF_2025": 20376.32,
+    "GDPPerCapitaViaUN_2023": 16959.76
+  },
+  {
+    "flagCode": "OM",
+    "country": "Oman",
+    "GDPPerCapitaViaIMF_2025": 20230.48,
+    "GDPPerCapitaViaUN_2023": 20972.48
+  },
+  {
+    "flagCode": "PA",
+    "country": "Panama",
+    "GDPPerCapitaViaIMF_2025": 20092.05,
+    "GDPPerCapitaViaUN_2023": 18700.81
+  },
+  {
+    "flagCode": "PW",
+    "country": "Palau",
+    "GDPPerCapitaViaIMF_2025": 20087.61,
+    "GDPPerCapitaViaUN_2023": 15899.42
+  },
+  {
+    "flagCode": "CR",
+    "country": "Costa Rica",
+    "GDPPerCapitaViaIMF_2025": 18722.03,
+    "GDPPerCapitaViaUN_2023": 16942.03
+  },
+  {
+    "flagCode": "MV",
+    "country": "Maldives",
+    "GDPPerCapitaViaIMF_2025": 18599.21,
+    "GDPPerCapitaViaUN_2023": 12530.36
+  },
+  {
+    "flagCode": "BG",
+    "country": "Bulgaria",
+    "GDPPerCapitaViaIMF_2025": 18455.63,
+    "GDPPerCapitaViaUN_2023": 15067.66
+  },
+  {
+    "flagCode": "CL",
+    "country": "Chile",
+    "GDPPerCapitaViaIMF_2025": 17926.52,
+    "GDPPerCapitaViaUN_2023": 17067.81
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "GDPPerCapitaViaIMF_2025": 16876.18,
+    "GDPPerCapitaViaUN_2023": 12813.64
+  },
+  {
+    "flagCode": "KZ",
+    "country": "Kazakhstan",
+    "GDPPerCapitaViaIMF_2025": 15112.24,
+    "GDPPerCapitaViaUN_2023": 13000.07
+  },
+  {
+    "flagCode": "RU",
+    "country": "Russia",
+    "GDPPerCapitaViaIMF_2025": 15077.12,
+    "GDPPerCapitaViaUN_2023": 13809.21
+  },
+  {
+    "flagCode": "LC",
+    "country": "Saint Lucia",
+    "GDPPerCapitaViaIMF_2025": 14561.01,
+    "GDPPerCapitaViaUN_2023": 13554.77
+  },
+  {
+    "flagCode": "MY",
+    "country": "Malaysia",
+    "GDPPerCapitaViaIMF_2025": 14423.07,
+    "GDPPerCapitaViaUN_2023": 11377.48
+  },
+  {
+    "flagCode": "ME",
+    "country": "Montenegro",
+    "GDPPerCapitaViaIMF_2025": 13961.47,
+    "GDPPerCapitaViaUN_2023": 11884.64
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "GDPPerCapitaViaIMF_2025": 13873.31,
+    "GDPPerCapitaViaUN_2023": 12508.77
+  },
+  {
+    "flagCode": "TM",
+    "country": "Turkmenistan",
+    "GDPPerCapitaViaIMF_2025": 13656.61,
+    "GDPPerCapitaViaUN_2023": 8131.96
+  },
+  {
+    "flagCode": "MX",
+    "country": "Mexico",
+    "GDPPerCapitaViaIMF_2025": 13630.15,
+    "GDPPerCapitaViaUN_2023": 13826.13
+  },
+  {
+    "flagCode": "RS",
+    "country": "Serbia",
+    "GDPPerCapitaViaIMF_2025": 13490.03,
+    "GDPPerCapitaViaUN_2023": 11100.68
+  },
+  {
+    "flagCode": "NR",
+    "country": "Nauru",
+    "GDPPerCapitaViaIMF_2025": 13475.96,
+    "GDPPerCapitaViaUN_2023": 14811.52
+  },
+  {
+    "flagCode": "MU",
+    "country": "Mauritius",
+    "GDPPerCapitaViaIMF_2025": 13098.93,
+    "GDPPerCapitaViaUN_2023": 11304.38
+  },
+  {
+    "flagCode": "GD",
+    "country": "Grenada",
+    "GDPPerCapitaViaIMF_2025": 12722.15,
+    "GDPPerCapitaViaUN_2023": 11246.35
+  },
+  {
+    "flagCode": "DO",
+    "country": "Dominican Republic",
+    "GDPPerCapitaViaIMF_2025": 12451.95,
+    "GDPPerCapitaViaUN_2023": 10717.63
+  },
+  {
+    "flagCode": "AR",
+    "country": "Argentina",
+    "GDPPerCapitaViaIMF_2025": 12053.98,
+    "GDPPerCapitaViaUN_2023": 14187.48
+  },
+  {
+    "flagCode": "VC",
+    "country": "Saint Vincent and the Grenadines",
+    "GDPPerCapitaViaIMF_2025": 11193.65,
+    "GDPPerCapitaViaUN_2023": 10767.5
+  },
+  {
+    "flagCode": "BR",
+    "country": "Brazil",
+    "GDPPerCapitaViaIMF_2025": 10815.51,
+    "GDPPerCapitaViaUN_2023": 10377.59
+  },
+  {
+    "flagCode": "AL",
+    "country": "Albania",
+    "GDPPerCapitaViaIMF_2025": 10386.31,
+    "GDPPerCapitaViaUN_2023": 8172.29
+  },
+  {
+    "flagCode": "DM",
+    "country": "Dominica",
+    "GDPPerCapitaViaIMF_2025": 9942.06,
+    "GDPPerCapitaViaUN_2023": 9786.05
+  },
+  {
+    "flagCode": "GE",
+    "country": "Georgia",
+    "GDPPerCapitaViaIMF_2025": 9612.52,
+    "GDPPerCapitaViaUN_2023": 8019.85
+  },
+  {
+    "flagCode": "MK",
+    "country": "North Macedonia",
+    "GDPPerCapitaViaIMF_2025": 9439.43,
+    "GDPPerCapitaViaUN_2023": 8605.53
+  },
+  {
+    "flagCode": "GA",
+    "country": "Gabon",
+    "GDPPerCapitaViaIMF_2025": 9094.46,
+    "GDPPerCapitaViaUN_2023": 8071.4
+  },
+  {
+    "flagCode": "AM",
+    "country": "Armenia",
+    "GDPPerCapitaViaIMF_2025": 8964.96,
+    "GDPPerCapitaViaUN_2023": 8228.12
+  },
+  {
+    "flagCode": "BA",
+    "country": "Bosnia and Herzegovina",
+    "GDPPerCapitaViaIMF_2025": 8668.36,
+    "GDPPerCapitaViaUN_2023": 8638.67
+  },
+  {
+    "flagCode": "PE",
+    "country": "Peru",
+    "GDPPerCapitaViaIMF_2025": 8570.38,
+    "GDPPerCapitaViaUN_2023": 7906.58
+  },
+  {
+    "flagCode": "BY",
+    "country": "Belarus",
+    "GDPPerCapitaViaIMF_2025": 8459.92,
+    "GDPPerCapitaViaUN_2023": 7882.83
+  },
+  {
+    "flagCode": "BZ",
+    "country": "Belize",
+    "GDPPerCapitaViaIMF_2025": 8354.51,
+    "GDPPerCapitaViaUN_2023": 7488.59
+  },
+  {
+    "flagCode": "MD",
+    "country": "Moldova",
+    "GDPPerCapitaViaIMF_2025": 8161.3,
+    "GDPPerCapitaViaUN_2023": 5393.39
+  },
+  {
+    "flagCode": "BW",
+    "country": "Botswana",
+    "GDPPerCapitaViaIMF_2025": 8002.98,
+    "GDPPerCapitaViaUN_2023": 7820.1
+  },
+  {
+    "flagCode": "CO",
+    "country": "Colombia",
+    "GDPPerCapitaViaIMF_2025": 7895.43,
+    "GDPPerCapitaViaUN_2023": 6948.24
+  },
+  {
+    "flagCode": "GQ",
+    "country": "Equatorial Guinea",
+    "GDPPerCapitaViaIMF_2025": 7892.9,
+    "GDPPerCapitaViaUN_2023": 6558.38
+  },
+  {
+    "flagCode": "JM",
+    "country": "Jamaica",
+    "GDPPerCapitaViaIMF_2025": 7841.25,
+    "GDPPerCapitaViaUN_2023": 6839.73
+  },
+  {
+    "flagCode": "TH",
+    "country": "Thailand",
+    "GDPPerCapitaViaIMF_2025": 7754.14,
+    "GDPPerCapitaViaUN_2023": 7181.69
+  },
+  {
+    "flagCode": "TV",
+    "country": "Tuvalu",
+    "GDPPerCapitaViaIMF_2025": 7712.93,
+    "GDPPerCapitaViaUN_2023": 6880.01
+  },
+  {
+    "flagCode": "MN",
+    "country": "Mongolia",
+    "GDPPerCapitaViaIMF_2025": 7576.31,
+    "GDPPerCapitaViaUN_2023": 5790.37
+  },
+  {
+    "flagCode": "SR",
+    "country": "Suriname",
+    "GDPPerCapitaViaIMF_2025": 7544.68,
+    "GDPPerCapitaViaUN_2023": 5976.49
+  },
+  {
+    "flagCode": "AZ",
+    "country": "Azerbaijan",
+    "GDPPerCapitaViaIMF_2025": 7428.08,
+    "GDPPerCapitaViaUN_2023": 7012.48
+  },
+  {
+    "flagCode": "MH",
+    "country": "Marshall Islands",
+    "GDPPerCapitaViaIMF_2025": 7150.78,
+    "GDPPerCapitaViaUN_2023": 6951.99
+  },
+  {
+    "flagCode": "EC",
+    "country": "Ecuador",
+    "GDPPerCapitaViaIMF_2025": 6941.05,
+    "GDPPerCapitaViaUN_2023": 6609.8
+  },
+  {
+    "flagCode": "LY",
+    "country": "Libya",
+    "GDPPerCapitaViaIMF_2025": 6874.38,
+    "GDPPerCapitaViaUN_2023": 6026.82
+  },
+  {
+    "flagCode": "GT",
+    "country": "Guatemala",
+    "GDPPerCapitaViaIMF_2025": 6682.42,
+    "GDPPerCapitaViaUN_2023": 5762.84
+  },
+  {
+    "flagCode": "FJ",
+    "country": "Fiji",
+    "GDPPerCapitaViaIMF_2025": 6550.83,
+    "GDPPerCapitaViaUN_2023": 5888.74
+  },
+  {
+    "flagCode": "ZA",
+    "country": "South Africa",
+    "GDPPerCapitaViaIMF_2025": 6517.09,
+    "GDPPerCapitaViaUN_2023": 5976.39
+  },
+  {
+    "flagCode": "PY",
+    "country": "Paraguay",
+    "GDPPerCapitaViaIMF_2025": 6032.68,
+    "GDPPerCapitaViaUN_2023": 6276.2
+  },
+  {
+    "flagCode": "IQ",
+    "country": "Iraq",
+    "GDPPerCapitaViaIMF_2025": 5950.59,
+    "GDPPerCapitaViaUN_2023": 5149.47
+  },
+  {
+    "flagCode": "SV",
+    "country": "El Salvador",
+    "GDPPerCapitaViaIMF_2025": 5892.5,
+    "GDPPerCapitaViaUN_2023": 5391.07
+  },
+  {
+    "flagCode": "UA",
+    "country": "Ukraine",
+    "GDPPerCapitaViaIMF_2025": 5758.99,
+    "GDPPerCapitaViaUN_2023": 4737.44
+  },
+  {
+    "flagCode": "TO",
+    "country": "Tonga",
+    "GDPPerCapitaViaIMF_2025": 5756.53,
+    "GDPPerCapitaViaUN_2023": 4859.49
+  },
+  {
+    "flagCode": "CV",
+    "country": "Cape Verde",
+    "GDPPerCapitaViaIMF_2025": 5711.54,
+    "GDPPerCapitaViaUN_2023": 4961.17
+  },
+  {
+    "flagCode": "DZ",
+    "country": "Algeria",
+    "GDPPerCapitaViaIMF_2025": 5592.85,
+    "GDPPerCapitaViaUN_2023": 5364.03
+  },
+  {
+    "flagCode": "FM",
+    "country": "Micronesia",
+    "GDPPerCapitaViaIMF_2025": 5363.51,
+    "GDPPerCapitaViaUN_2023": 4707.66
+  },
+  {
+    "flagCode": "WS",
+    "country": "Samoa",
+    "GDPPerCapitaViaIMF_2025": 5350.26,
+    "GDPPerCapitaViaUN_2023": 4764.69
+  },
+  {
+    "flagCode": "IR",
+    "country": "Iran",
+    "GDPPerCapitaViaIMF_2025": 5299.98,
+    "GDPPerCapitaViaUN_2023": 4432.2
+  },
+  {
+    "flagCode": "ID",
+    "country": "Indonesia",
+    "GDPPerCapitaViaIMF_2025": 5247.59,
+    "GDPPerCapitaViaUN_2023": 4876.31
+  },
+  {
+    "flagCode": "VN",
+    "country": "Vietnam",
+    "GDPPerCapitaViaIMF_2025": 4985.93,
+    "GDPPerCapitaViaUN_2023": 4282.09
+  },
+  {
+    "flagCode": "JO",
+    "country": "Jordan",
+    "GDPPerCapitaViaIMF_2025": 4904.04,
+    "GDPPerCapitaViaUN_2023": 4442.06
+  },
+  {
+    "flagCode": "NA",
+    "country": "Namibia",
+    "GDPPerCapitaViaIMF_2025": 4710.76,
+    "GDPPerCapitaViaUN_2023": 4168.29
+  },
+  {
+    "flagCode": "SZ",
+    "country": "Eswatini",
+    "GDPPerCapitaViaIMF_2025": 4561.87,
+    "GDPPerCapitaViaUN_2023": 3716.79
+  },
+  {
+    "flagCode": "BT",
+    "country": "Bhutan",
+    "GDPPerCapitaViaIMF_2025": 4495.13,
+    "GDPPerCapitaViaUN_2023": 3686.28
+  },
+  {
+    "flagCode": "MA",
+    "country": "Morocco",
+    "GDPPerCapitaViaIMF_2025": 4470.64,
+    "GDPPerCapitaViaUN_2023": 3829.96
+  },
+  {
+    "flagCode": "PH",
+    "country": "Philippines",
+    "GDPPerCapitaViaIMF_2025": 4438.7,
+    "GDPPerCapitaViaUN_2023": 3804.87
+  },
+  {
+    "flagCode": "DJ",
+    "country": "Djibouti",
+    "GDPPerCapitaViaIMF_2025": 4417.01,
+    "GDPPerCapitaViaUN_2023": 3468.97
+  },
+  {
+    "flagCode": "TN",
+    "country": "Tunisia",
+    "GDPPerCapitaViaIMF_2025": 4396.18,
+    "GDPPerCapitaViaUN_2023": 3978.63
+  },
+  {
+    "flagCode": "VE",
+    "country": "Venezuela",
+    "GDPPerCapitaViaIMF_2025": 4121.9,
+    "GDPPerCapitaViaUN_2023": 4925.47
+  },
+  {
+    "flagCode": "BO",
+    "country": "Bolivia",
+    "GDPPerCapitaViaIMF_2025": 4120.63,
+    "GDPPerCapitaViaUN_2023": 3686.28
+  },
+  {
+    "flagCode": "ST",
+    "country": "Sao Tome and Principe",
+    "GDPPerCapitaViaIMF_2025": 3933.16,
+    "GDPPerCapitaViaUN_2023": 2962.99
+  },
+  {
+    "flagCode": "HN",
+    "country": "Honduras",
+    "GDPPerCapitaViaIMF_2025": 3594.08,
+    "GDPPerCapitaViaUN_2023": 3231.66
+  },
+  {
+    "flagCode": "VU",
+    "country": "Vanuatu",
+    "GDPPerCapitaViaIMF_2025": 3400.51,
+    "GDPPerCapitaViaUN_2023": 3491.93
+  },
+  {
+    "flagCode": "UZ",
+    "country": "Uzbekistan",
+    "GDPPerCapitaViaIMF_2025": 3379.4,
+    "GDPPerCapitaViaUN_2023": 2549.32
+  },
+  {
+    "flagCode": "EG",
+    "country": "Egypt",
+    "GDPPerCapitaViaIMF_2025": 3160.11,
+    "GDPPerCapitaViaUN_2023": 2895.07
+  },
+  {
+    "flagCode": "NI",
+    "country": "Nicaragua",
+    "GDPPerCapitaViaIMF_2025": 3074.45,
+    "GDPPerCapitaViaUN_2023": 2612.87
+  },
+  {
+    "flagCode": "AO",
+    "country": "Angola",
+    "GDPPerCapitaViaIMF_2025": 2990.6,
+    "GDPPerCapitaViaUN_2023": 2464.01
+  },
+  {
+    "flagCode": "KH",
+    "country": "Cambodia",
+    "GDPPerCapitaViaIMF_2025": 2948.03,
+    "GDPPerCapitaViaUN_2023": 2457.78
+  },
+  {
+    "flagCode": "IN",
+    "country": "India",
+    "GDPPerCapitaViaIMF_2025": 2936.82,
+    "GDPPerCapitaViaUN_2023": 2486.51
+  },
+  {
+    "flagCode": "CI",
+    "country": "Ivory Coast",
+    "GDPPerCapitaViaIMF_2025": 2901.81,
+    "GDPPerCapitaViaUN_2023": 2528.07
+  },
+  {
+    "flagCode": "BD",
+    "country": "Bangladesh",
+    "GDPPerCapitaViaIMF_2025": 2773.5,
+    "GDPPerCapitaViaUN_2023": 2463.63
+  },
+  {
+    "flagCode": "KI",
+    "country": "Kiribati",
+    "GDPPerCapitaViaIMF_2025": 2578.42,
+    "GDPPerCapitaViaUN_2023": 2177.7
+  },
+  {
+    "flagCode": "PG",
+    "country": "Papua New Guinea",
+    "GDPPerCapitaViaIMF_2025": 2549.51,
+    "GDPPerCapitaViaUN_2023": 2985.69
+  },
+  {
+    "flagCode": "CG",
+    "country": "Republic of the Congo",
+    "GDPPerCapitaViaIMF_2025": 2454.48,
+    "GDPPerCapitaViaUN_2023": 2291.27
+  },
+  {
+    "flagCode": "HT",
+    "country": "Haiti",
+    "GDPPerCapitaViaIMF_2025": 2434.53,
+    "GDPPerCapitaViaUN_2023": 1704.95
+  },
+  {
+    "flagCode": "KG",
+    "country": "Kyrgyzstan",
+    "GDPPerCapitaViaIMF_2025": 2405.25,
+    "GDPPerCapitaViaUN_2023": 1977.46
+  },
+  {
+    "flagCode": "MR",
+    "country": "Mauritania",
+    "GDPPerCapitaViaIMF_2025": 2393.65,
+    "GDPPerCapitaViaUN_2023": 2120.83
+  },
+  {
+    "flagCode": "SB",
+    "country": "Solomon Islands",
+    "GDPPerCapitaViaIMF_2025": 2299.6,
+    "GDPPerCapitaViaUN_2023": 2041.63
+  },
+  {
+    "flagCode": "GH",
+    "country": "Ghana",
+    "GDPPerCapitaViaIMF_2025": 2189.28,
+    "GDPPerCapitaViaUN_2023": 2260.29
+  },
+  {
+    "flagCode": "KE",
+    "country": "Kenya",
+    "GDPPerCapitaViaIMF_2025": 2186.58,
+    "GDPPerCapitaViaUN_2023": 1952.3
+  },
+  {
+    "flagCode": "ZW",
+    "country": "Zimbabwe",
+    "GDPPerCapitaViaIMF_2025": 2127.49,
+    "GDPPerCapitaViaUN_2023": 1858.43
+  },
+  {
+    "flagCode": "SN",
+    "country": "Senegal",
+    "GDPPerCapitaViaIMF_2025": 1971.7,
+    "GDPPerCapitaViaUN_2023": 1682.09
+  },
+  {
+    "flagCode": "CM",
+    "country": "Cameroon",
+    "GDPPerCapitaViaIMF_2025": 1922.85,
+    "GDPPerCapitaViaUN_2023": 1736.86
+  },
+  {
+    "flagCode": "LA",
+    "country": "Laos",
+    "GDPPerCapitaViaIMF_2025": 1854.18,
+    "GDPPerCapitaViaUN_2023": 1958
+  },
+  {
+    "flagCode": "GN",
+    "country": "Guinea",
+    "GDPPerCapitaViaIMF_2025": 1727.22,
+    "GDPPerCapitaViaUN_2023": 1597.04
+  },
+  {
+    "flagCode": "KM",
+    "country": "Comoros",
+    "GDPPerCapitaViaIMF_2025": 1687.17,
+    "GDPPerCapitaViaUN_2023": 1702.63
+  },
+  {
+    "flagCode": "BJ",
+    "country": "Benin",
+    "GDPPerCapitaViaIMF_2025": 1586.8,
+    "GDPPerCapitaViaUN_2023": 1394.18
+  },
+  {
+    "flagCode": "TL",
+    "country": "Timor-Leste",
+    "GDPPerCapitaViaIMF_2025": 1532.86,
+    "GDPPerCapitaViaUN_2023": 1502.52
+  },
+  {
+    "flagCode": "NP",
+    "country": "Nepal",
+    "GDPPerCapitaViaIMF_2025": 1486.46,
+    "GDPPerCapitaViaUN_2023": 1363.34
+  },
+  {
+    "flagCode": "ZM",
+    "country": "Zambia",
+    "GDPPerCapitaViaIMF_2025": 1466.46,
+    "GDPPerCapitaViaUN_2023": 1330.73
+  },
+  {
+    "flagCode": "TJ",
+    "country": "Tajikistan",
+    "GDPPerCapitaViaIMF_2025": 1367.09,
+    "GDPPerCapitaViaUN_2023": 1160.81
+  },
+  {
+    "flagCode": "UG",
+    "country": "Uganda",
+    "GDPPerCapitaViaIMF_2025": 1303.89,
+    "GDPPerCapitaViaUN_2023": 1048.63
+  },
+  {
+    "flagCode": "TZ",
+    "country": "Tanzania",
+    "GDPPerCapitaViaIMF_2025": 1272.46,
+    "GDPPerCapitaViaUN_2023": 1208.96
+  },
+  {
+    "flagCode": "MM",
+    "country": "Myanmar",
+    "GDPPerCapitaViaIMF_2025": 1186.52,
+    "GDPPerCapitaViaUN_2023": 1146.85
+  },
+  {
+    "flagCode": "GW",
+    "country": "Guinea-Bissau",
+    "GDPPerCapitaViaIMF_2025": 1166.36,
+    "GDPPerCapitaViaUN_2023": 855.15
+  },
+  {
+    "flagCode": "ET",
+    "country": "Ethiopia",
+    "GDPPerCapitaViaIMF_2025": 1108.11,
+    "GDPPerCapitaViaUN_2023": 1241.31
+  },
+  {
+    "flagCode": "LS",
+    "country": "Lesotho",
+    "GDPPerCapitaViaIMF_2025": 1106.8,
+    "GDPPerCapitaViaUN_2023": 916.28
+  },
+  {
+    "flagCode": "TG",
+    "country": "Togo",
+    "GDPPerCapitaViaIMF_2025": 1099.25,
+    "GDPPerCapitaViaUN_2023": 997.12
+  },
+  {
+    "flagCode": "GM",
+    "country": "Gambia",
+    "GDPPerCapitaViaIMF_2025": 1074.43,
+    "GDPPerCapitaViaUN_2023": 890.03
+  },
+  {
+    "flagCode": "TD",
+    "country": "Chad",
+    "GDPPerCapitaViaIMF_2025": 1036.16,
+    "GDPPerCapitaViaUN_2023": 913.25
+  },
+  {
+    "flagCode": "RW",
+    "country": "Rwanda",
+    "GDPPerCapitaViaIMF_2025": 990.12,
+    "GDPPerCapitaViaUN_2023": 1010.28
+  },
+  {
+    "flagCode": "BF",
+    "country": "Burkina Faso",
+    "GDPPerCapitaViaIMF_2025": 952.48,
+    "GDPPerCapitaViaUN_2023": 882.69
+  },
+  {
+    "flagCode": "ML",
+    "country": "Mali",
+    "GDPPerCapitaViaIMF_2025": 933.15,
+    "GDPPerCapitaViaUN_2023": 869.27
+  },
+  {
+    "flagCode": "LR",
+    "country": "Liberia",
+    "GDPPerCapitaViaIMF_2025": 887.43,
+    "GDPPerCapitaViaUN_2023": 917.39
+  },
+  {
+    "flagCode": "SL",
+    "country": "Sierra Leone",
+    "GDPPerCapitaViaIMF_2025": 883.49,
+    "GDPPerCapitaViaUN_2023": 757.86
+  },
+  {
+    "flagCode": "NG",
+    "country": "Nigeria",
+    "GDPPerCapitaViaIMF_2025": 835.49,
+    "GDPPerCapitaViaUN_2023": 1645.51
+  },
+  {
+    "flagCode": "SO",
+    "country": "Somalia",
+    "GDPPerCapitaViaIMF_2025": 818.65,
+    "GDPPerCapitaViaUN_2023": 597.49
+  },
+  {
+    "flagCode": "NE",
+    "country": "Niger",
+    "GDPPerCapitaViaIMF_2025": 752.15,
+    "GDPPerCapitaViaUN_2023": 642.94
+  },
+  {
+    "flagCode": "CD",
+    "country": "DR Congo",
+    "GDPPerCapitaViaIMF_2025": 743.65,
+    "GDPPerCapitaViaUN_2023": 655.43
+  },
+  {
+    "flagCode": "MZ",
+    "country": "Mozambique",
+    "GDPPerCapitaViaIMF_2025": 684.97,
+    "GDPPerCapitaViaUN_2023": 622.99
+  },
+  {
+    "flagCode": "SD",
+    "country": "Sudan",
+    "GDPPerCapitaViaIMF_2025": 594.9,
+    "GDPPerCapitaViaUN_2023": 679.84
+  },
+  {
+    "flagCode": "MG",
+    "country": "Madagascar",
+    "GDPPerCapitaViaIMF_2025": 575.74,
+    "GDPPerCapitaViaUN_2023": 508.72
+  },
+  {
+    "flagCode": "CF",
+    "country": "Central African Republic",
+    "GDPPerCapitaViaIMF_2025": 548.83,
+    "GDPPerCapitaViaUN_2023": 495.98
+  },
+  {
+    "flagCode": "YE",
+    "country": "Yemen",
+    "GDPPerCapitaViaIMF_2025": 455.46,
+    "GDPPerCapitaViaUN_2023": 222.33
+  },
+  {
+    "flagCode": "MW",
+    "country": "Malawi",
+    "GDPPerCapitaViaIMF_2025": 448.29,
+    "GDPPerCapitaViaUN_2023": 598.29
+  },
+  {
+    "flagCode": "SS",
+    "country": "South Sudan",
+    "GDPPerCapitaViaIMF_2025": 334.14,
+    "GDPPerCapitaViaUN_2023": 403.12
+  },
+  {
+    "flagCode": "BI",
+    "country": "Burundi",
+    "GDPPerCapitaViaIMF_2025": 156.5,
+    "GDPPerCapitaViaUN_2023": 289.3
+  },
+  {
+    "flagCode": "PK",
+    "country": "Pakistan",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 1211.55
+  },
+  {
+    "flagCode": "AF",
+    "country": "Afghanistan",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 396.02
+  },
+  {
+    "flagCode": "KP",
+    "country": "North Korea",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 639.5
+  },
+  {
+    "flagCode": "SY",
+    "country": "Syria",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 1230.27
+  },
+  {
+    "flagCode": "LK",
+    "country": "Sri Lanka",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 3672.52
+  },
+  {
+    "flagCode": "CU",
+    "country": "Cuba",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 18329.15
+  },
+  {
+    "flagCode": "LB",
+    "country": "Lebanon",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 4756.83
+  },
+  {
+    "flagCode": "PS",
+    "country": "Palestine",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 3216.05
+  },
+  {
+    "flagCode": "ER",
+    "country": "Eritrea",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 655.63
+  },
+  {
+    "flagCode": "NC",
+    "country": "New Caledonia",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 34981.16
+  },
+  {
+    "flagCode": "PF",
+    "country": "French Polynesia",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 22759.09
+  },
+  {
+    "flagCode": "CW",
+    "country": "Curacao",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 17696.56
+  },
+  {
+    "flagCode": "KY",
+    "country": "Cayman Islands",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 97582.74
+  },
+  {
+    "flagCode": "BM",
+    "country": "Bermuda",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 125841.6
+  },
+  {
+    "flagCode": "GL",
+    "country": "Greenland",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 54374.48
+  },
+  {
+    "flagCode": "TC",
+    "country": "Turks and Caicos Islands",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 30348.81
+  },
+  {
+    "flagCode": "SX",
+    "country": "Sint Maarten",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 39236.57
+  },
+  {
+    "flagCode": "LI",
+    "country": "Liechtenstein",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 201150.46
+  },
+  {
+    "flagCode": "MC",
+    "country": "Monaco",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 256580.64
+  },
+  {
+    "flagCode": "AI",
+    "country": "Anguilla",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 28850.47
+  },
+  {
+    "flagCode": "CK",
+    "country": "Cook Islands",
+    "GDPPerCapitaViaIMF_2025": null,
+    "GDPPerCapitaViaUN_2023": 25749.65
+  }
+]
